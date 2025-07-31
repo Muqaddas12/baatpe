@@ -21,7 +21,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Muqaddas12/BaatPe.git
+git clone https://github.com/your-username/BaatPe.git
 cd BaatPe
 ```
 
@@ -82,11 +82,27 @@ BaatPe/
 
 ## 🛠 Tech Stack
 
+### 📦 NPM Packages Used
+
 * **React Native**
 * **Expo Router**
 * **Perplexity API**
 * **react-native-voice**
 * **expo-speech**
+
+---
+
+### 📦 Dependencies
+
+```bash
+npm install react-native-voice expo-speech @react-navigation/native @react-navigation/drawer react-native-reanimated react-native-gesture-handler react-native-safe-area-context react-native-screens expo-router
+```
+
+You will also need:
+
+```bash
+npx expo install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context
+```
 
 ---
 
