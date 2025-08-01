@@ -5,7 +5,7 @@ export default function CustomDrawerContent(props) {
   return (
     <DrawerContentScrollView {...props}>
       <View style={styles.header}>
-        <Image source={require('../../assets/baatpe-logo.png')} style={styles.logo} />
+       
         <Text style={styles.name}>Muqaddas Malik</Text>
         <Text style={styles.email}>muqaddasmalik781@gmail.com</Text>
       </View>

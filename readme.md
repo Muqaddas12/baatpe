@@ -39,7 +39,7 @@ Create a file at `src/utils/getDataFromApi.js` and replace:
 Authorization: 'Bearer YOUR_API_KEY'
 ```
 
-with your actual [Perplexity API Key](https://docs.perplexity.ai).
+with your actual [API Key](https://docs.perplexity.ai).
 
 ### 4. Run with Expo Dev Client
 
