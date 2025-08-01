@@ -4,7 +4,7 @@ export const getDataFromApi = async (prompt) => {
     const response = await fetch('https://api.perplexity.ai/chat/completions', {
       method: 'POST',
       headers: {
-        Authorization: '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',
+        Authorization: 'Bearer YOUR_API_KEY', // Replace securely
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
